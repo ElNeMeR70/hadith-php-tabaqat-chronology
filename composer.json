@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/hadith-php-tabaqat-chronology",
+  "description": "Narrator Chronological Overlap & Liqa' Feasibility Validator (مدقق المعاصرة واللقاء وتواريخ وفيات الرواة)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
